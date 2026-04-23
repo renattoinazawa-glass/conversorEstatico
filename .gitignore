@@ -1,0 +1,17 @@
+# Pastas de compilação (Binários)
+bin/
+obj/
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos de usuário e temporários
+*.user
+*.suo
+*.db
+*.sln.docstates
+
+# outros
+
+publish/
+.env
